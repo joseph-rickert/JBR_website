@@ -1,0 +1,39 @@
+---
+title: "Joseph B. Rickert"
+about:
+  template: trestles
+  image: JBR_head.png
+  links:
+    - icon: Linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/joseph-rickert-a45a96/
+    - icon: github
+      text: Github
+      href: https://github.com/joseph-rickert
+
+---
+
+## A Brief Introduction
+
+I am a broadly educated technology professional with executive level experience in several industries. With some notable exceptions, I have mostly worked at small companies and start-ups.(One which I co-founded was moderately successful.) I have held executive level positions in management, technical marketing and field sales. Additionally, I have done senior level technical work in mathematical model building, statistical analysis and data science.
+
+### R Community Work
+
+Since 2009 I have been active in the R Community and have held prominent positions in the R Consortium including Chair of the Board of Directors and Executive Director. (See Work Experience for details). I participate in a number of technical working groups associated with the R Consortium and the ASA Including the [R Submissions WG](https://github.com/RConsortium/submissions-wg), the [R Repositories WG](https://github.com/RConsortium/r-repositories-wg), [RTRS](https://github.com/RConsortium/rtrs-wg), the [Census WG](https://github.com/RConsortium/censusguide), the [R Validation Hub](https://www.pharmar.org/), and the [Openstatsware WG](https://www.openstatsware.org/people.html). For several years, I ran the R Consortium [RUGS program](https://www.r-consortium.org/all-projects/r-user-group-support-program) that supports R user groups and small conferences worldwide. I have been a member of the [R/Medicine](https://events.linuxfoundation.org/r-medicine/) conference organizing committee since the fist conference in 2018. I was part of the organizing committee that hosted the [2016 useR! Conference](https://user2016.r-project.org/) at Stanford University and I have been an organizer of the Bay Area useR Group ([BARUG](https://www.meetup.com/r-users/)) since 2009.
+
+
+### Technical Work
+
+I maintain an active interest in practice of statistics with a focus on survival analysis, Markov processes, and functional data analysis. I have published a number of posts on the [R Views Blog](https://rviews.rstudio.com/) in these areas. I occasionally consult on technical projects assisting with statistical analysis, mathematical model building, and decision analysis. I have the experience to ask the relevant questions and the technical expertise to provide data-driven answers.
+
+## Education
+
+* MS Computational Statistics: California State University East Bay (2006)
+* MA Humanities/Philosophy: California State University Dominguez Hills (2002)
+* BA Mathematics: Franklin & Marshall College, Lancaster PA. (1973)
+* Study Abroad: University of Lancaster, UK (1971 - 1972)
+* High School: St. Joseph's Preparatory School Phila., PA (1965 - 1969)
+
+
+
+

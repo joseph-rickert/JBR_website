@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 15101d22-5a96-456a-8ede-9b5fda850b91
+      url: 'https://revojoe.quarto.pub/introducing-joe-rickert'

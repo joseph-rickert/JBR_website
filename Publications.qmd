@@ -1,0 +1,35 @@
+
+---
+title: "Academic Work and Standards Actvities"
+---
+
+## Publications
+
+* Emily M. Eichenberger, Wairimu Magua, Joseph B. Rickert, Geeta Karadkhele, Mohammad Kazem Fallahzadeh, Payaswini Vasanth, Christian Larsen [Belatacept-based immunosuppression does not confer increased risk of BK polyomavirus-DNAemia relative to tacrolimus-based immunosuppression](https://onlinelibrary.wiley.com/doi/abs/10.1111/tid.14298) Transplant Infectious Disease. 30 June 2024 https://doi.org/10.1111/tid.14298
+* Magua, Wairimu, Aileen C Johnson, Geeta M Karadkhele, Idelberto R Badell, Payaswini Vasanth, Aneesh K Mehta, Kirk A Easley, Kenneth A Newell, Joseph B Rickert, Christian P Larsen ["Impact of belatacept and tacrolimus on cytomegalovirus viral load control and relapse in moderate and high-risk cytomegalovirus serostatus kidney transplant recipients"](https://pubmed.ncbi.nlm.nih.gov/36321801/). Transpl Infect Dis. 2022 Dec;24(6):e13983. doi: 10.1111/tid.13983. Epub 2022 Nov 14.
+* Atkinson, Elizabeth J., Peter D. Higgins, Denise Esserman, Michael J. Kane, Steven J. Schwager,
+Joseph B. Rickert, Daniella Mark, Mara Alexeev, and Stephan Kadauke ["R Medicine 2020: The Power of Going
+Virtual"](https://rjournal.github.io/archive/2021-1/rmed2020.pdf). R Journal, 2021 - rjournal.github.io
+* Hornberger, John; Joseph Rickert, Ravinder Dhawan, Johan Liwing, Johan Aschan, Mikael Löthgren. ["The cost-effectiveness of bortezomib in relapsed/refractory multiple myeloma: Swedish perspective"](). Eur J Haematol. 2010 Dec;85(6):484-91.
+* Llwing, J; J Liwing, L Gjönnes, I Sandberg, M Renlund, J Aschan, M Lothgren, JB Rickert, J Hornberger, R Dhawan ["The Cost-Effectiveness of Bortezomib for Relapsed/Refractory Multiple Myeloma—a Nordic Comparison](https://www.infona.pl/resource/bwmeta1.element.elsevier-b1d7c776-b56a-3c88-8732-2ec3ec83385d). Value in Health (2009) 12/7, 10.1016/S1098-3015(10)74337-0
+* Rickert, Joseph B. [Big Data analysis with revolution R enterprise](http://www.sas.rochester.edu/psc/thestarlab/help/Big-Data-WP.pdf) White Paper: sas.rochester.edu
+* Rickert, Joseph B. [A philosophical investigation of Information](https://www.proquest.com/openview/1b1bb4fa2482c8e5234732b026373147/1?pq-origsite=gscholar&cbl=18750&diss=y). Masters Thesis (2002)
+* Rickert, Joseph B. "The IBM Thinkpad at Leontopolis." Portable Computing Vol. 2, No. 1, (February/March 1993): 101 - 109.
+* Rickert, Joseph B. "Evaluating MAC-Layer Bridges-Beyond Filtering and Forwarding." Data Communications Vol. 19, No.6 (May 1990): 117 to 122. reprinted in Advances in Local and
+Metropolitan Area Networks. ed. William Stallings. Los Alamitos: IEEE Computer Society Press, 1993. 392 - 395.
+
+
+## Professional Organizations and Standards
+
+* American Statistical Association (ASA) - Member
+* International Disk Drive Equipment and Materials Association (IDEMA), 1994 - 1999
+  * Chair of PRML Working Group 1994 - 1997
+* Institute of Electronic and Electric Engineers (IEEE) 1985 (Life Member)
+  * Member of IEEE 802.3 Working Group that approved the 802.3c standard in July 1985
+
+
+## Additional Graduate Studies:
+
+* Computer Science: University of Maryland, 1979 - 1980 (6 credits)
+* Statistics: Drexel University, 1977 - 1979 (18 credits)
+* Mathematics: University of Delaware: 1973 - 1975 (24 credits)

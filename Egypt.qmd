@@ -1,0 +1,32 @@
+
+---
+title: "The Ultimate Field Test"
+---
+
+## The City of the Lions
+Much of what we know about our world results from the work of inspired, unfunded scholars deeply committed to projects that most of us can only dream about. In late 1991, by chance, I learned that Berkeley Egyptologists [Carol Redmount](https://vcresearch.berkeley.edu/faculty/carol-redmount) and [Renee Friedman](http://www.hierakonpolis-online.org/index.php/about-the-team/renee-friedman/) were having difficulty finding the funds to support their project to locate "Leontopolis" an ancient Egyptian city of some import, whose location had been lost.
+
+This was a time of great excitement, before the internet, when the promise of personal computers was just reaching fields such as archaeology and PC manufacturers were competing with imaginative new uses for their mobile person computers. I guessed that the companies equipping their tablet computers with experimental handwriting recognition software would jump at chance to have their product figure in a story to look for a "lost city". I wrote several proposals to the top tablet makers, all of them expressed an interest, however none came through with any funding.  Nevertheless, at the very last minute, two days before I was scheduled to meet the archaeologists in Egypt, Deborah Dell, the product manager for IBM Thinkpad tablet, had a very early model of the machine couriered to me. 
+
+You can read the story of this adventure in the references below. The net result was that the Thinkpad hardware performed superbly in the very harsh conditions of the excavation site near Kafr Al Muqdam in the Nile Delta. The handwriting recognition software was not nearly good enough at that time to replace the common clipboard, but the Thinkpad did prove to be of some value in rendering hieroglyphs. We took several photos of the Thinkpad in use and sold them to IBM Marketing. These became the basis for IBM's 1992 COMDEX presentation. The money raised helped to fund the expedition for the following season. 
+
+::: {layout="[[40,-20,40], [100]]"}
+![Rickert digging in Ancient Trash](JBR1.png)
+
+![Dr. Friedman with Thinkpad](RF.png)
+
+![Thinkpad at Leontopolis](T1.png)
+:::
+
+
+
+
+### References 
+
+* Dell, Deborah A. and J. G. Purdy Ph.D. ThinkPad, A Different Shade of Blue, Indianapolis: SAMS, 2000. 108.
+
+* Lee, Yvonne. "Pen Computer vendors dig archaeologist's input: System, software tested in Egypt" special report Infoworld. Vol. 14, Issue 52/1 (Dec. 28 1992/Jan. 4, 1993)
+  * <a href="Infoworld_1.PDF" target="blank">page 1</a>
+  * <a href="Infoworld_2.PDF" target="blank">page 96</a>
+
+* Rickert, Joseph B. "The IBM Thinkpad at Leontopolis." Portable Computing Vol. 2, No. 1, (February/March 1993): 101 - 109.
