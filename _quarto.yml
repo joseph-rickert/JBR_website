@@ -1,5 +1,7 @@
 project:
   type: website
+  output-dir: docs
+ 
 
 website:
   title: "Introducing Joe Rickert"
@@ -12,7 +14,7 @@ website:
       - href: Publications.qmd
         text: Publications
       - href: Egypt.qmd
-        text: Egypt
+        text: Marketing for Archaeology
       
   
       
