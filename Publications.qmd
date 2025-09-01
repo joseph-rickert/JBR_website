@@ -5,6 +5,7 @@ title: "Academic Work and Standards Actvities"
 
 ## Publications
 
+* Wairimu Magua, Octav Cristea, Emily M. Eichenberger, Geeta M. Karadkhele, Alanna A. Morris, Kenneth Newell, Joseph B. Rickert, Christian P. Larsen [Early Post-Transplant Renal Recovery Trajectory and Trajectory Velocity Functions Are Predictors of Estimated GFR at 1 Year: A Functional Data Analysis Approach](https://onlinelibrary.wiley.com/doi/10.1111/ctr.70119) Clinical Transplantation, 06 March 2025
 * Emily M. Eichenberger, Wairimu Magua, Joseph B. Rickert, Geeta Karadkhele, Mohammad Kazem Fallahzadeh, Payaswini Vasanth, Christian Larsen [Belatacept-based immunosuppression does not confer increased risk of BK polyomavirus-DNAemia relative to tacrolimus-based immunosuppression](https://onlinelibrary.wiley.com/doi/abs/10.1111/tid.14298) Transplant Infectious Disease. 30 June 2024 https://doi.org/10.1111/tid.14298
 * Magua, Wairimu, Aileen C Johnson, Geeta M Karadkhele, Idelberto R Badell, Payaswini Vasanth, Aneesh K Mehta, Kirk A Easley, Kenneth A Newell, Joseph B Rickert, Christian P Larsen ["Impact of belatacept and tacrolimus on cytomegalovirus viral load control and relapse in moderate and high-risk cytomegalovirus serostatus kidney transplant recipients"](https://pubmed.ncbi.nlm.nih.gov/36321801/). Transpl Infect Dis. 2022 Dec;24(6):e13983. doi: 10.1111/tid.13983. Epub 2022 Nov 14.
 * Atkinson, Elizabeth J., Peter D. Higgins, Denise Esserman, Michael J. Kane, Steven J. Schwager,
